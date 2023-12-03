@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Concerts and Music Festivals",
+        "body": "Offer comprehensive event planning and coordination services for music concerts and festivals. From securing top-tier musical talent to selecting the perfect venue and managing every aspect of production, we've got you covered. We also handle ticketing and promotional campaigns to ensure your event's success.",
+        "short_body": "Comprehensive event planning for music concerts and festivals.",
+        "price": 4500,
+        "duration": "1-3 days",
+        "included_services": "Stage setup, artist management, sound equipment",
+        "image_url": "https://i.ibb.co/CMHxJQf/Concerts-and-Music-Festivals.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Theater and Performing Arts",
+        "body": "We specialize in providing top-notch event management services for theater and performing arts productions. Our expertise includes venue selection, stage design, lighting, and sound equipment to create memorable performances. Let us bring your artistic vision to life.",
+        "short_body": "Event management for theater and performing arts productions.",
+        "price": 3500,
+        "duration": "1-2 weeks",
+        "included_services": "Stage design, lighting, sound equipment",
+        "image_url": "https://i.ibb.co/WHGXg40/Theater-and-Performing-Arts.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Film Screenings and Premieres",
+        "body": "Elevate your film screenings and premieres with our specialized event planning services. We handle every detail, from venue arrangements and red carpet events to promotional activities that ensure a grand debut for your film.",
+        "short_body": "Specialized event planning for film screenings and premieres.",
+        "price": 4000,
+        "duration": "1 day",
+        "included_services": "Red carpet setup, promotional activities",
+        "image_url": "https://i.ibb.co/0BGz8DS/Film-Screenings-and-Premieres.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Comedy Shows",
+        "body": "Laugh your way to success with our event planning for comedy shows and stand-up performances. We assist with comedian bookings, venue selection, and marketing strategies that guarantee a night of humor and entertainment.",
+        "short_body": "Event planning for comedy shows and stand-up performances.",
+        "price": 3000,
+        "duration": "1-2 days",
+        "included_services": "Comedian booking, venue setup, marketing",
+        "image_url": "https://i.ibb.co/Vpdvnxh/Comedy-Shows.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Sports Events",
+        "body": "Score big with our event management and coordination services for sports events. From venue logistics and athlete appearances to ticketing solutions, we make sure your sports event is a winning experience.",
+        "short_body": "Event management for sports events.",
+        "price": 5000,
+        "duration": "1-5 days",
+        "included_services": "Venue logistics, athlete appearances, ticketing",
+        "image_url": "https://i.ibb.co/s6pGGNx/Sports-Events.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Dance Performances and Shows",
+        "body": "Let us choreograph success for your dance performances and shows. Our services cover everything, from choreography and venue selection to technical support, ensuring a flawless and captivating performance.",
+        "short_body": "Choreography and event planning for dance performances and shows.",
+        "price": 3800,
+        "duration": "1-2 weeks",
+        "included_services": "Choreography, venue selection, technical support",
+        "image_url": "https://i.ibb.co/S7W324D/Dance-Performances-and-Shows.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Conventions and Cosplay Events",
+        "body": "Step into the world of entertainment with our conventions and cosplay events. We organize conventions that celebrate pop culture, coordinate cosplay contests, host panels, and bring celebrity guests to meet fans.",
+        "short_body": "Organizing conventions and cosplay events within the entertainment industry.",
+        "price": 4200,
+        "duration": "2-4 days",
+        "included_services": "Cosplay contest coordination, panel organization, guest appearances",
+        "image_url": "https://i.ibb.co/CMHxJQf/Conventions-and-Cosplay-Events.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Outdoor Music Festivals",
+        "body": "Immerse yourself in the great outdoors with our outdoor music festivals. Featuring various music genres and activities, we handle logistics, artist bookings, and even camping arrangements to create unforgettable festival experiences.",
+        "short_body": "Organizing outdoor music festivals with a wide range of activities.",
+        "price": 4800,
+        "duration": "3-5 days",
+        "included_services": "Logistics, artist bookings, camping arrangements",
+        "image_url": "https://i.ibb.co/P9XD1Dy/Outdoor-Music-Festivals.jpg"
+    }
+]
