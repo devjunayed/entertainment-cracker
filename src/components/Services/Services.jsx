@@ -27,7 +27,7 @@ const Services = () => {
                                 </div>
                                 <div className="card-actions justify-center">
                                     <Link to={`service/${data.id}`}>
-                                        <button className="btn bg-black text-white mt-4">Show Details</button>
+                                        <button className="btn btn-outline bg-black text-white mt-4">Show Details</button>
                                     </Link>
                                 </div>
                             </div>
@@ -41,9 +41,9 @@ const Services = () => {
             <div className="flex my-10">
                 {
                     displayData.length === allData.length ?
-                        <button onClick={() => setDisplayData(allData.slice(0, 6))} className="mx-auto btn hover:bg-blue-700 bg-blue-600 text-white">Hide More</button>
+                        <button onClick={() => setDisplayData(allData.slice(0, 6))} className="mx-auto btn btn-outline bg-black text-white">Hide More</button>
                         :
-                        <button onClick={() => setDisplayData(allData)} className="mx-auto btn hover:bg-blue-700 bg-blue-600 text-white">See More</button>
+                        <button onClick={() => setDisplayData(allData)} className="mx-auto btn bg-black btn-outline text-white">See More</button>
                 }
 
             </div>
